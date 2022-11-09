@@ -1,7 +1,7 @@
 # PPTsimulations
-VSM simulation data associated with Wise, E.K and M.P. Dannenberg. 2022. Simulating the Impacts of Changes in Precipitation Timing and Intensity on Tree Growth, Geophysical Research Letters, Pub Details TBD
+VSM simulation data associated with Wise, E.K and M.P. Dannenberg. 2022. Simulating the Impacts of Changes in Precipitation Timing and Intensity on Tree Growth, Geophysical Research Letters, 49, e2022GL100863. https://doi.org/10.1029/2022GL100863
 
-Data are in a MATLAB structure with filename Wise_Dannenberg_VSMsimulations.mat and set up as:
+Data are in a MATLAB structure with filename Wise_Dannenberg_VSMsimulations_GRL2022.mat and set up as:
 
 Wise_Dannenberg_VSMsimulations.(PaperCode).years
 
@@ -9,7 +9,7 @@ Wise_Dannenberg_VSMsimulations.(PaperCode).Baseline
 
 Wise_Dannenberg_VSMsimulations.(PaperCode).(Simulation)
 
-where PaperCode refers to the set of five sites in the first column of Table S1:
+where PaperCode refers to the set of five sites in the first column of Table S2:
 
 'SP_PSME'
 
@@ -21,7 +21,7 @@ where PaperCode refers to the set of five sites in the first column of Table S1:
 
 'LS_PIJE'
 
-and Simulation refers to the set of  experiment in the first column of Tabls S3:
+and Simulation refers to the set of  experiment in the first column of Tabls S5:
 
 'DailyMaxiumReplication'
 
